@@ -1,4 +1,3 @@
-# Category-Identification-in-Data-via-Machine-Learning
 # Category Identification in Data via Machine Learning
 
 Automated product categorization and feature-based recommendation system designed for e-commerce platforms using supervised machine learning and vector similarity algorithms.
